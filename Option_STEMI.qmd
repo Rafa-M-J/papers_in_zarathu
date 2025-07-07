@@ -7,12 +7,11 @@ editor: visual
 
 # Immediate versus staged complete revascularisation during index admission in patients with ST-segement elevation mycrocardial infraction and multivessel disease(OPTION-STEMI): a multicentre, non-inferiority, open-label, randomised trial
 
-------------------------------------------------------------------------
 
-# Background
+## Background
 
 -   Optimal timing of complete revascularisation for STEMI & multivessel coronary artery disease → **unclear**.
 
-------------------------------------------------------------------------
 
-# Methods
+## Methods
+
