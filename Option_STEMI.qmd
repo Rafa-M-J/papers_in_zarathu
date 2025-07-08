@@ -5,11 +5,13 @@ format: revealjs
 editor: visual
 ---
 
-# Background
+# Title
 
 -   Immediate versus staged complete revascularisation during index admission in patients with ST-segement elevation mycrocardial infraction and multivessel disease(OPTION-STEMI): a multicentre, non-inferiority, open-label, randomised trial
 
 ---
+
+# Sumamary
 
 ## Background
 
@@ -19,4 +21,13 @@ editor: visual
 
 ## Methods
 
+-   open-label, randomised, non-inferiority trial.
+
+-   patients with *STEMI* and *multivessel disease* 
+
+-   PCI for a culprit lesion to *immediate*(PCI for non-culprit lesions during index procedure)
+
+-   *Staged complete revascularisation*(PCI for non-culprit lesions for another day)
+
 ---
+
