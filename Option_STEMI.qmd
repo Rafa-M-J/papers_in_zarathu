@@ -23,11 +23,11 @@ editor: visual
 
 -   open-label, randomised, non-inferiority trial.
 
--   patients with *STEMI* and *multivessel disease* 
+-   patients with **STEMI** and **multivessel disease**
 
--   PCI for a culprit lesion to *immediate*(PCI for non-culprit lesions during index procedure)
+-   PCI for a culprit lesion to **immediate**(PCI for non-culprit lesions during index procedure)
 
--   *Staged complete revascularisation*(PCI for non-culprit lesions for another day)
+-   **Staged complete revascularisation**(PCI for non-culprit lesions for another day)
 
 ---
 
