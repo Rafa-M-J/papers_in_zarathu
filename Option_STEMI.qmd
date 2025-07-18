@@ -1,5 +1,5 @@
 ---
-title: "Option_STEMI"
+title: "OPTION_STEMI"
 author: "Mingu Jee"
 format: revealjs
 editor: visual
@@ -7,9 +7,9 @@ editor: visual
 
 # Title
 
--   Immediate versus staged complete revascularisation during index admission in patients with ST-segement elevation mycrocardial infraction and multivessel disease(OPTION-STEMI): a multicentre, non-inferiority, open-label, randomised trial
+Immediate versus staged complete revascularisation during index admission in patients with ST-segement elevation mycrocardial infraction and multivessel disease(OPTION-STEMI): a multicentre, non-inferiority, open-label, randomised trial
 
----
+------------------------------------------------------------------------
 
 # Sumamary
 
@@ -17,9 +17,9 @@ editor: visual
 
 -   Optimal timing of complete revascularisation for STEMI & multivessel coronary artery disease → **unclear**.
 
----
+------------------------------------------------------------------------
 
-## Methods
+## Methods1
 
 -   open-label, randomised, non-inferiority trial.
 
@@ -29,5 +29,202 @@ editor: visual
 
 -   **Staged complete revascularisation**(PCI for non-culprit lesions for another day)
 
+-   FFR(fractional flow reserve)에 의해 50\~90% stenosis(협착) → non-culprit lesions.
+
+------------------------------------------------------------------------
+
+## Methods2
+
+-   **Primary endpoint**:
+
+    -   at 1 year in the intention-to-treat popultation
+
+    -   death from any cause
+
+    -   nonfatal myocradial infraction(비치명적 심근경색)
+
+    -   unplanned revascularisation
+
+    -   non-inferiority margin: HR of 1.42
+
+------------------------------------------------------------------------
+
+## Findings1
+
+-   2019.12.30 \~ 2024.01.15
+
+-   498: immediate group, 496: staged group.
+
+-   primary endpoint occurred at 1 year 65(13.1%) vs 53(10.8%)
+
+-   hazard ratio: 1.24(0.86-1.79)
+
+    -   HR이 1보다 크다 → immediate가 위험이 더 높다.
+
+    -   다만, 95% CI에 1이 포함 → 확실이 차이가 있다고 보긴 어렵다.
+
+-   $P_{non\_inferioirty} = 0.24$
+
+    -   비열등성 기준(1.42)를 만족했다고 말하긴 어렵다.
+
+------------------------------------------------------------------------
+
+## Findings2
+
+-   acute stent thrombosis(급성 스텐트 혈전증): 1.6% vs 0.1%
+
+-   cardiogenic shock(심인성 쇼크): 3.6% vs 1.8%
+
+-   In subgroup analyses: heterogeneity in the treatment effect according to **Killip class**
+
+    -   I: 별다른 심부전 징후 x
+
+    -   II, III: 숨이 차거나, 폐에 물이 차는 등 심부전 징후
+
+    -   II, III인 환자에게는 immediate가 오히려 더 해로웠다.
+
+------------------------------------------------------------------------
+
+## Interpretation
+
+-   immediate complete revascularisation was **not non-inferior** to staged complete revascularisation.
+
+------------------------------------------------------------------------
+
+# Introduction
+
+## Introduction1
+
+-   Multivessel coronary artery disease: 심장으로 가는 여러 혈관이 동시에 좁아진 상태. STEMI를 겪는 환자 절반가량이 이런 질환을 함께 가지고 있다.
+
+-   complete vs culprit only revascularisation: 여러 연구에서는 complete가 환자에게 더 낫다고 보고됨(clinical benefit).
+
+-   몇몇 RCT에서는 immediate vs staged complete: non-inferior이라고 보고됨. 다만, 이경우 대부분의 환자들이 퇴원 후 외래로 와서 다시 받는 경우가 대부분 → 같은 입원 기간이 X.
+
+-   그래서 이번 연구는 index hospitalization(입원 기간) 안에서 immediate vs staged complete의 treatment effect를 확인해보자.
+
+------------------------------------------------------------------------
+
+## Introduction2
+
+-   가이드라인: complete revascularisation 권장. 그러나 immediate mutlivessel PCI에 대한 evidence(근거)는 충분하지 않다.
+
+-   나아가, index admission(입원 중)에서 언제(timing) 다 고쳐주는 것이 좋은지에 대한 RCT가 거의 존재하지 않다.
+
+-   결국 본 연구의 목적은:
+
+    -   primary PCI에서 immediate complete revascularisation이 staged completed revascularisation보다 non-inferior한가?
+
+------------------------------------------------------------------------
+
+# Methods
+
+## Study Design and Participants1
+
+-   invertigator-initiated, multicentre
+
+    -의사, 연구자가 직접 기획했고, 한국의 14개 병원에서 진행
+
+-   open-label, non-inferiority trial
+
+    -환자와 의사 모두 어떤 치료를 받는지 알고 있고, 비열등성 검정
+
+-   RCT conducted at 14 hospitals between 2019.12 \~ 2024.01
+
+------------------------------------------------------------------------
+
+## Study Design and Participants2
+
+![](img/image-5.png)
+
+------------------------------------------------------------------------
+
+## Randomisation and Masking
+
+-   Randomisation: 2명 혹은 4명씩 묶어 순서를 뒤집는 방식 사용(randomly permuted block sizes of two of four) → TnW software로 처리.
+
+-   Masking: 참가자와 실험자 모두 어떤 그룹인지 알고 있었음(not masked). 다만 결과 판단 위원회(사망 등 판단)는 어떤 그룹인지 모르는 상태로 심사.
+
 ---
 
+## Procedures
+
+-   staged group: ASAP unless necessey. 가능한 빨리!
+
+-   두 그룹에서 모두 FFR로 50-69% 좁아진 혈관들에 문제가 되는지 확인 진행. 70% 이상 좁아진 경우는 바로 PCI 진행. 
+
+-   third-generation, biodegradable-polymer, everolimus-eluting stent...
+
+-   Treatment with a drug-coated balloon or plain old balloon angioplasty(스텐트 대신) &  choice of P2Y12 inhibitor or vascular access site & use of manual thrombus aspiration → 시술 의사 판단... 상황 맞춰서.
+
+-   Follow-up assessments: randomisation이후 1, 6, 12개월에 병원 방문 or 전화
+
+---
+
+## Primary Outcomes
+
+-   Primary outcome: 1 year after randomization
+    
+    -   death rom any cause
+    
+    -   nonfatal myocardial infarction
+    
+    -   all unplanned revascularisation
+
+---
+
+## Secondary outcome: 
+
+-   primary outcome의 지표를 1개월, 6개월 시점에서도 본 것을 포함!
+
+![](img/image-6.png)
+
+---
+
+## Statistical Analysis1
+
+-   가설: primary outcome에 대해 immediate가 staged complete보다 **non-inferior**하다.
+
+-   staged complete에서 event가 발생할 확률을 10.5%로 가정
+
+-   non-inferiority HR = 1.42를 기준으로 power(검정력)가 80%가 되게 하려면 **994명**이 필요하다고 계산.
+
+    -   one-sided 2.5% significance level, 4% dropout rate 감안.
+    
+-   분석은 intention-to-treat principle을 따라 진행.
+
+---
+
+## Statistical Analysis2
+
+-   cumulative event rate of the study endpoints: estimated by **Kaplan-Meier**.
+
+-   treatment effects: assedsed by Cox proportional-hazards regression.
+
+    -   results: hazard ratios(HR) with 95% CI.
+    
+    -   PH assumption: verified using Schoenfeld residuals.
+    
+-   판단기준: HR의 신뢰구간의 최고값이 미리 정해둔 non-inferiority margin인 1.42보다 작다면 non-inferior이라고 판단!
+
+---
+
+## Statistical Analysis3
+
+-   per-protocol population(patients with no major protocol deviations)을 모아서 **Sensitivity analysis(민감도 분석)** 진행.
+
+-   Interaction term with Randomised group & Key subgroups(by Killip)was assessed for the primary endpoint of the prespecified subgroup analyses.
+
+-   Missing values에 대해 no imputation. Also there was no interim(중간점검 분석).
+
+-   There was no adjustment for multiple testing and multiplicity of study outcomes for the number of comparisons.(보정 X)
+
+---
+
+# Results
+
+---
+
+## Results1
+
+-   
